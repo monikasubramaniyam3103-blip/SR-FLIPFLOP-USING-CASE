@@ -59,6 +59,6 @@ endmodule
 <img width="1036" height="641" alt="Screenshot 2025-12-09 111156" src="https://github.com/user-attachments/assets/b6f9213c-877d-4da3-bce0-ea4aa861b833" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1039" height="644" alt="Screenshot 2025-12-09 111236" src="https://github.com/user-attachments/assets/8f2af086-e8bc-4d77-82e9-30ba9907e4b8" />
+<img width="1039" height="644" alt="Screenshot 2025-12-09 111236" src="https://github.com/user-attachments/assets/b316c9a8-a6bf-45d2-b396-c8805b4b0548" />
 
 **RESULTS** Thus implement SR Flip Flop using verilog validating their funtionality using theri funtional tables
